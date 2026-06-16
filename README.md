@@ -308,9 +308,7 @@ Monthly employee awareness sessions covering:
 
 ## Author
 
-**Subin Puttantarayail**
+**Subin R**
 
 B.Tech Computer Engineering
-Pillai College of Engineering
 
-GitHub: https://github.com/your-github-username
